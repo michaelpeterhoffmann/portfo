@@ -9,7 +9,7 @@ en-core-web-sm==2.2.5
 google-search==1.0.2
 google-search-results==1.8.1
 idna==2.9
-joblib==0.14.1
+joblib==1.2.0
 lxml==4.5.0
 murmurhash==1.0.2
 nltk==3.5
